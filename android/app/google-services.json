@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "81098138212",
+    "firebase_url": "https://aeapp-e9bab-default-rtdb.firebaseio.com",
+    "project_id": "aeapp-e9bab",
+    "storage_bucket": "aeapp-e9bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81098138212:android:441ccd89143438c18df571",
+        "android_client_info": {
+          "package_name": "com.example.aeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBezfoxgSQ0esvLuJ0SwYSm0XX9KGiDBeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
